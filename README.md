@@ -34,9 +34,10 @@ You make your routine and provide me the document, you forget and I always guide
 <img width="805" alt="Screenshot 2025-02-22 at 1 16 12 AM" src="https://github.com/user-attachments/assets/983aae40-81fe-41d1-89c6-2318c83c8640" />
 
 -> Here You go!!
+<p align="center">
 <img width="384" alt="Screenshot 2025-02-22 at 1 17 05 AM" src="https://github.com/user-attachments/assets/15292f63-72d9-4b9e-9b70-5f6ae7a6ff3c" />
 <img width="338" alt="Screenshot 2025-02-22 at 1 17 34 AM" src="https://github.com/user-attachments/assets/1634fe22-470f-4bb0-abc9-569e8e492040" />
-
+</p>
 - 💡 Solution design and AI-generated recommendations.
 ### Research Assistant (rag_deep.py)
 - 📚 PDF document analysis using RAG (Retrieval-Augmented Generation).
