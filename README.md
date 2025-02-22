@@ -54,9 +54,12 @@ You make your routine and provide me the document, you forget and I always guide
 -> The document is now added and ask me questions based on this PDF only 👉🏻
 
 -> <img width="817" alt="Screenshot 2025-02-22 at 1 08 17 AM" src="https://github.com/user-attachments/assets/c4c6c994-9a70-4d9b-b76b-ca88f3bb23b0" />
-   Analysing ⌛
 
-   <img width="911" alt="Screenshot 2025-02-22 at 1 06 21 AM" src="https://github.com/user-attachments/assets/1b8d264e-3100-43c8-a871-ffeea3f734d9" />
+Analysing ⌛
+
+Output : 
+
+<img width="911" alt="Screenshot 2025-02-22 at 1 06 21 AM" src="https://github.com/user-attachments/assets/1b8d264e-3100-43c8-a871-ffeea3f734d9" />
 
 
 
