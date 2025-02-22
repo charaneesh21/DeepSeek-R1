@@ -29,9 +29,11 @@ You make your routine and provide me the document, you forget and I always guide
 - 🐞 Debugging suggestions and strategic print statements.
 - 📝 Code documentation automation.
 <img width="1415" alt="Screenshot 2025-02-22 at 1 11 50 AM" src="https://github.com/user-attachments/assets/24699309-f50e-43f5-8a53-fd382f3c13bf" />
--> Ask me "give a python code for a Tic Tac Toe game" <img width="805" alt="Screenshot 2025-02-22 at 1 16 12 AM" src="https://github.com/user-attachments/assets/983aae40-81fe-41d1-89c6-2318c83c8640" />
+-> Ask me "give a python code for a Tic Tac Toe game"
+  <img width="805" alt="Screenshot 2025-02-22 at 1 16 12 AM" src="https://github.com/user-attachments/assets/983aae40-81fe-41d1-89c6-2318c83c8640" />
 ----> Here You go!! 
-<img width="338" alt="Screenshot 2025-02-22 at 1 17 34 AM" src="https://github.com/user-attachments/assets/1634fe22-470f-4bb0-abc9-569e8e492040" /> <img width="384" alt="Screenshot 2025-02-22 at 1 17 05 AM" src="https://github.com/user-attachments/assets/15292f63-72d9-4b9e-9b70-5f6ae7a6ff3c" />
+<img width="338" alt="Screenshot 2025-02-22 at 1 17 34 AM" src="https://github.com/user-attachments/assets/1634fe22-470f-4bb0-abc9-569e8e492040" />
+<img width="384" alt="Screenshot 2025-02-22 at 1 17 05 AM" src="https://github.com/user-attachments/assets/15292f63-72d9-4b9e-9b70-5f6ae7a6ff3c" />
 
 
 - 💡 Solution design and AI-generated recommendations.
