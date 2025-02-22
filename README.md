@@ -49,9 +49,8 @@ You make your routine and provide me the document, you forget and I always guide
 -> I would help you adding a sample document and show how cool I'am, Add a sample document of your profile based on linkedin 
 <img width="1132" alt="Screenshot 2025-02-22 at 12 39 10 AM" src="https://github.com/user-attachments/assets/4ac46427-1dc2-4a61-ac18-b690def92054" />
 
--> The document is now added and ask me questions based on this PDF only 👉🏻
-
 <img width="1058" alt="Screenshot 2025-02-22 at 12 58 08 AM" src="https://github.com/user-attachments/assets/be015d82-d21f-4e20-97a8-fcc90de7a2a8" />
+
 -> The document is now added and ask me questions based on this PDF only 👉🏻
 
 -> <img width="817" alt="Screenshot 2025-02-22 at 1 08 17 AM" src="https://github.com/user-attachments/assets/c4c6c994-9a70-4d9b-b76b-ca88f3bb23b0" />
